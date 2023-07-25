@@ -1,0 +1,11 @@
+username,useridentifier,age,city,phonenumber,email
+JohnDoe,1,31,New York,555-1234,john.doe@example.com
+JaneSmith,2,25,Los Angeles,555-5678,jane.smith@example.com
+MichaelJohnson,3,28,Chicago,555-9876,michael.johnson@example.com
+EmilyBrown,4,22,San Francisco,555-4567,emily.brown@example.com
+WilliamDavis,5,35,Boston,555-7890,william.davis@example.com
+OliviaWilson,6,29,Houston,555-3456,olivia.wilson@example.com
+JamesMiller,7,32,Philadelphia,555-2345,james.miller@example.com
+SophiaMartinez,8,27,Phoenix,555-6789,sophia.martinez@example.com
+LiamAnderson,9,31,Dallas,555-8765,liam.anderson@example.com
+AvaTaylor,10,26,Miami,555-5432,ava.taylor@example.com
